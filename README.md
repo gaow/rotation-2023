@@ -1,4 +1,4 @@
-# Fall 2023 first year MS research assistant rotation projects
+# Fall 2023 first year MS research assistant rotation
 
 ## Overview
 
@@ -20,4 +20,24 @@ Please browse them, but I would suggest to not pick it yet before our interview 
 
 ## Project 1: Building software package for a new "colocalization analysis" method we have recently developed
 
+This project will allow you to demonstrate your **software programming and scientific computing skills**. 
+
+We are interested in identifying DNA variation that may lead to a series of events spanning the Central Dogma of Biology, ie, their impact on epigenomic marks, RNA expression, post-transcriptional processes, protein expression, metabolomics products and complex disease and phenotypes such as Alzheimer's disease. 
+Identifying such variations with potential evidence to "regulate" *multiple* such molecular features and complex traits is called "colocalization analysis". 
+This is a challenging task because many DNA variants are correlated to the truly causal variant of various outcomes (you can roughly understand this as a variable selection problem of regressors in linear regression setting), 
+and they may have an impact on only a subset of possible outcomes amoung many outcomes evaluated.
+
+We have developed a new colocalization analysis method which showed great potential advantages over existing methods to address these two challenges.
+Currently, we have implemented a prototype in the R programming language sufficient for in-house use to perform simulation studies and data analysis.
+However, for our method to become reliable analytical tool for the community to make important discovery from their data, it is crucial to ensure that our implementation is correct, is execellent in the quality of engineering to the best of our knowledge, and is very much user-friendly because our target users are mostly practitioners with strong domain knowledge but may not be savvy at statistical modeling and software engineering.
+To achieve this goal:
+
+1. The implementation must be well-tested using a ["unit testing"](https://en.wikipedia.org/wiki/Unit_testing) framework implemented in R.
+2. The R scripts must be packaged into an R library, with good documentation for all the functions that we expect users to interact with (those R functions that we `export` to the namespace of the R library).
+3. The R package should be well-engineered: there are at least two engineering aspects that I can think of at this point that could be improved.
+
+These 3 tasks are somewhat independent to each other --- if you pick this project please discuss with me what might be a good starting point for you. In the ideal case, you complete all of them at the end of the rotation.
+To get started, please follow instructions in [this notebook](). 
+
+For those who does execellent job in this task, you will be credited as a maintainer of this R library that we will publish on https://cran.r-project.org/. You may also be listed as a co-author of our manuscript which we expect to publish early next year.
 
