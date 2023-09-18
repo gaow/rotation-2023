@@ -50,7 +50,9 @@ For those who does execellent job in this task, you will be credited as a mainta
 
 ### Next steps until April, 2024
 
-Students who successfully completed this assignment may be involved in a similar, but more challenging task of coding and improving another new statistical method we are developing, to integrate a vast range of functional genomic features to improve the accuracy of gene mapping and colocalization analysis. We will also conceive a project spinning from this theme that they could lead on for summer 2024.
+Students who successfully completed this assignment may be involved in a similar, but more challenging task of coding and improving another new statistical method we are developing, to integrate a vast range of functional genomic features to improve the accuracy of gene mapping and colocalization analysis. We will also conceive a project spinning from this theme that you could lead on for summer 2024.
+
+In this process you will be working closely with our postdocs Dr. Xuewei Cao and Dr. Ru Feng, as well as our 2nd year master student Haochen Sun.
 
 ## Project 2: Adopting and applying a new statistical method to discover cis-regulatory network from quantitative trait loci analysis
 
@@ -78,7 +80,9 @@ For those who does execellent job in this task, you will be asked to perform add
 
 Students who successfully completed this assignment will continue to learn and contribute to the consortium project discover various types of QTL beyond eQTL. 
 
-### Next step for summer 2024
+In this process you will be working closely with our 2nd year master students Zining Qi and Anjing Liu, as well as our postdoc Dr. Ru Feng.
+
+### Next steps for summer 2024
 
 Students will lead on the cis-network discovery using resources built from the QTL discovery above, adopting and applying our new statistical method called mvSuSiE, and furnish the results into a manuscript to be published in late 2024 or early 2025. 
 
@@ -110,3 +114,4 @@ For those who does execellent job in this task, you will be included as a co-aut
 
 Students who successfully completed this assignment will continue to be involved in applying the new method to analyze our vast multi-omics data, to learn about a series of related advanced statistical analysis on omics data, and to conceive a project spinning from this theme that they could lead on for summer 2024.
 
+In this process you will be working closely with our postdoc Dr. Xuewei Cao and 5th-year undergraduate student intern Yifei Wang. You will also interact with Dr. Kushal Dey and his trainee at MSKCC.
