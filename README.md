@@ -86,7 +86,23 @@ In this process you will be working closely with our 2nd year master students Zi
 
 Students will lead on the cis-network discovery using resources built from the QTL discovery above, adopting and applying our new statistical method called mvSuSiE, and furnish the results into a manuscript to be published in late 2024 or early 2025. 
 
-## Project 3: Simulation study for a new method to discover trans-regulatory network from quantitative trait loci analysis
+## Project 3: Context specific molecular QTL discovery to elucidate Alzheimer's disease etiology
+
+### Aim
+
+Same as Project 2.
+
+### Details
+
+The assignment for rotation is exactly the same as Project 2 --- please follow the detailed instructions there. The difference is the problem we address here: traditional QTL discovery typically focus on all the samples available to an investigator, assuming the effects of QTL in these samples are the same. However, it is also well known that QTL can act in context specific fashion. For example tissue, cell type, age, sex, and biomarkers of a person can have impact in the way the DNA variant regulates molecular phenotypes. A particularly interesting In our lab we curate and analyze QTL in brains and blood relevant to their role in blood-brain barrier and the regulation leading to neurodegenerative discorders. 
+
+Analysis outlined in Project 2 can be similarly applied for context specific QTL. To get started, please read Project 2 Details and Outcome and Next steps until April, 2024.
+
+### Next steps for summer 2024
+
+Student will lead on a manuscript exploring context specific QTL and context specific cis-QTL network relevant to Alzheimer's disease.
+
+## Project 4: Simulation study for a new method to discover trans-regulatory network from quantitative trait loci analysis
 
 ### Aim
 
