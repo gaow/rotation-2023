@@ -52,7 +52,13 @@ For those who does execellent job in this task, you will be credited as a mainta
 
 Students who successfully completed this assignment may be involved in a similar, but more challenging task of coding and improving another new statistical method we are developing, to integrate a vast range of functional genomic features to improve the accuracy of gene mapping and colocalization analysis.
 
-## Project 2: Simulation study for a new method to discover trans-regulatory network from quantitative trait loci analysis
+## Project 2: Adopting and applying a new statistical method to discover cis-regulatory network from quantitative trait loci analysis
+
+### Aim
+
+This project will allow you to demonstrate your **bioinformatics data analysis skills**, and later your data science skills to generate new knowledge from your own data analysis.
+
+## Project 3: Simulation study for a new method to discover trans-regulatory network from quantitative trait loci analysis
 
 ### Aim
 
