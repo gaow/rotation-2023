@@ -50,13 +50,37 @@ For those who does execellent job in this task, you will be credited as a mainta
 
 ### Next steps until April, 2024
 
-Students who successfully completed this assignment may be involved in a similar, but more challenging task of coding and improving another new statistical method we are developing, to integrate a vast range of functional genomic features to improve the accuracy of gene mapping and colocalization analysis.
+Students who successfully completed this assignment may be involved in a similar, but more challenging task of coding and improving another new statistical method we are developing, to integrate a vast range of functional genomic features to improve the accuracy of gene mapping and colocalization analysis. We will also conceive a project spinning from this theme that they could lead on for summer 2024.
 
 ## Project 2: Adopting and applying a new statistical method to discover cis-regulatory network from quantitative trait loci analysis
 
 ### Aim
 
 This project will allow you to demonstrate your **bioinformatics data analysis skills**, and later your data science skills to generate new knowledge from your own data analysis.
+
+### Details
+
+Imagine a simple task to identify DNA variations that might impact the RNA expression of its near by gene --- say you have 1,000 brain tissue samples, for each sample you measure the expression level of a gene, say *APOE*, which is a real number $y > 0$. You also measure the sequence the DNA near this gene, represented as a vector of integers $X$, taking values from {0,1,2} representing the copies of minor alleles of a genetic loci. To evaluate if a change in the DNA sequence has an impact on the gene expression level, one popular method is to perform a linear regression between $y$ and each variant in $X$ over all the 1,000 samples you have. This process is formally known as "eQTL" mapping (because we are analyzing gene **e**xpression **q**uantitative **t**rait **l**oci). To get a feeling of this process in practice, I suggest you watch [this video on YouTube](https://www.youtube.com/watch?v=24U8lyqu65A).
+
+In our lab, we have performed extensive QTL analysis (not just eQTL but many others) for each of the genes in the genome with its nearby DNA variants. Now, we would like to focus on those variant that impact **multiple nearby genes**, to *prioritize* them as target of interest for follow-up studies because they potentially have a greater impact to biological functions than those that regulate just one gene at a time. To achieve this, we need to:
+
+1. Perform conventional cis-QTL discovery along the line of the procedures outlined in the YouTube video.
+2. Perform cis-network discovery using a new method we recently developed in a context different from cis-network discovery.
+
+For the rotation project you are only expected to complete task 1, which is essentially to apply the steps outlined in the YouTube video to a small example data-set that we have prepared for you, using the software pipeline we have developed in the lab. By performing this analysis you will be well-trained to conduct QTL discoveries from real-world data.
+To get started, please follow instructions in the "xQTL association analysis" of [this notebook](https://github.com/cumc/xqtl-pipeline/blob/main/code/xqtl_protocol_demo.ipynb).
+
+### Outcome
+
+For those who does execellent job in this task, you will be asked to perform additional similar analysis which will contribute to a large consortium project, and you will be listed a co-author on our manuscript which we expect to publish next year.
+
+### Next steps until April, 2024
+
+Students who successfully completed this assignment will continue to learn and contribute to the consortium project discover various types of QTL beyond eQTL. 
+
+### Next step for summer 2024
+
+Students will lead on the cis-network discovery using resources built from the QTL discovery above, adopting and applying our new statistical method called mvSuSiE, and furnish the results into a manuscript to be published in late 2024 or early 2025. 
 
 ## Project 3: Simulation study for a new method to discover trans-regulatory network from quantitative trait loci analysis
 
