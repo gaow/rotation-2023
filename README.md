@@ -7,7 +7,9 @@ As of now (September 15, 2023) most of the project specific contents are out-dat
 Instead, here I will outline some of the research topics relevant to your future projects in the orientation tasks below. 
 
 Before you decide if you would like to start working with us, please read the [lab "rules"](https://wanggroup.org/orientation/index.html#lab-rules), particularly a section for "Master students".
-If you find these are acceptable to you, please reach out to me to start your rotation project.
+Please think carefully through about the committement to our lab and evaluate if it fits your future plans.
+You can also talk to my current Biostatistics master students (Anjing Liu, Zining Qi and Haochen Sun) about what their experiences are working in the lab.
+If you find everything is reasonable to you, please book meeting with me to discuss your rotation project.
 
 In the next month, you will pick a rotation project and push it forward as much as you can.
 The projects are designed for somewhat savvy students to complete within a month, so I don't expect everyone to complete all the tasks.
