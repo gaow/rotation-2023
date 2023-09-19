@@ -38,7 +38,7 @@ and they may have an impact on only a subset of possible outcomes amoung many ou
 
 We have developed a new colocalization analysis method which showed great potential advantages over existing methods to address these two challenges.
 Currently, we have implemented a prototype in the R programming language sufficient for in-house use to perform simulation studies and data analysis.
-However, for our method to become reliable analytical tool for the community to make important discovery from their data, it is crucial to ensure that our implementation is correct, is execellent in the quality of engineering to the best of our knowledge, and is very much user-friendly because our target users are mostly practitioners with strong domain knowledge but may not be savvy at statistical modeling and software engineering.
+However, for our method to become reliable analytical tool for the community to make important discovery from their data, it is crucial to ensure, to the best of our knowledge, that our implementation is correct, is execellent in its engineering quality, and is very much user-friendly (with target users being mostly practitioners who have strong domain knowledge but may not be savvy at statistical modeling and software engineering).
 To achieve this goal:
 
 1. The implementation must be well-tested using a ["unit testing"](https://en.wikipedia.org/wiki/Unit_testing) framework implemented in R.
@@ -50,11 +50,11 @@ To get started, please follow instructions in [this notebook](https://github.com
 
 ### Outcome
 
-For those who does execellent job in this task, you will be credited as a maintainer of this R library that we will publish on https://cran.r-project.org/. You may also be listed as a co-author of our manuscript which we expect to publish early next year.
+For those who does execellent job in this task, you will be credited as a maintainer of this R library that we will publish on https://cran.r-project.org/. Depending on how helpful your work is, evaluated by myself and two other trainees in my lab who lead the project, you may also be listed as a co-author of our manuscript which we expect to publish early next year.
 
 ### Next steps until April, 2024
 
-Students who successfully completed this assignment may be involved in a similar, but more challenging task of coding and improving another new statistical method we are developing, to integrate a vast range of functional genomic features to improve the accuracy of gene mapping and colocalization analysis. We will also conceive a project spinning from this theme that you could lead on for summer 2024.
+Students who successfully completed this assignment may be involved in a similar, but more challenging task of coding and improving another new statistical method we are developing, to integrate a vast range of functional genomic features to improve the accuracy of gene mapping and colocalization analysis. For example, it may even involve GPU computing in R which we have never explored ourselves. We will also conceive a project spinning from this theme that you could take lead on for summer 2024.
 
 In this process you will be working closely with our postdocs Dr. Xuewei Cao and Dr. Ru Feng, as well as our 2nd year master student Haochen Sun.
 
@@ -68,7 +68,7 @@ This project will allow you to demonstrate your **bioinformatics data analysis s
 
 Imagine a simple task to identify DNA variations that might impact the RNA expression of its near by gene --- say you have 1,000 brain tissue samples, for each sample you measure the expression level of a gene, say *APOE*, which is a real number $y > 0$. You also measure the sequence the DNA near this gene, represented as a vector of integers $X$, taking values from {0,1,2} representing the copies of minor alleles of a genetic loci. To evaluate if a change in the DNA sequence has an impact on the gene expression level, one popular method is to perform a linear regression between $y$ and each variant in $X$ over all the 1,000 samples you have. This process is formally known as "eQTL" mapping (because we are analyzing gene **e**xpression **q**uantitative **t**rait **l**oci). To get a feeling of this process in practice, I suggest you watch [this video on YouTube](https://www.youtube.com/watch?v=24U8lyqu65A).
 
-In our lab, we have performed extensive QTL analysis (not just eQTL but many others) for each of the genes in the genome with its nearby DNA variants. Now, we would like to focus on those variant that impact **multiple nearby genes**, to *prioritize* them as target of interest for follow-up studies because they potentially have a greater impact to biological functions than those that regulate just one gene at a time. To achieve this, we need to:
+In our lab, we have resource to perform extensive QTL analysis (not just eQTL but many other type of QTL) for each of the genes in the genome with its nearby DNA variants. We would like to specifically focus on those variant that impact **multiple nearby genes**, to *prioritize* them as target of interest for follow-up studies because they potentially have a greater impact to biological functions than those that regulate just one gene at a time. To achieve this, we need to:
 
 1. Perform conventional cis-QTL discovery along the line of the procedures outlined in the YouTube video.
 2. Perform cis-network discovery using a new method we recently developed in a context different from cis-network discovery.
@@ -98,7 +98,7 @@ Same as Project 2.
 
 ### Details
 
-The assignment for rotation is exactly the same as Project 2 --- please follow the detailed instructions there. The difference is the problem we address here: traditional QTL discovery typically focus on all the samples available to an investigator, assuming the effects of QTL in these samples are the same. However, it is also well known that QTL can act in context specific fashion. For example tissue, cell type, age, sex, and biomarkers of a person can have impact in the way the DNA variant regulates molecular phenotypes. A particularly interesting In our lab we curate and analyze QTL in brains and blood relevant to their role in blood-brain barrier and the regulation leading to neurodegenerative discorders. 
+The assignment for rotation is exactly the same as Project 2 --- please follow the detailed instructions there. The difference is the problem we address with this project: traditional QTL discovery typically focus on all the samples available to an investigator, assuming the effects of QTL in these samples are the same. However, it is also well known that QTL can act in context specific fashion. For example tissue, cell type, age, sex, and biomarkers of a person can have impact in the way the DNA variant regulates molecular phenotypes. Of particular interest to our lab is curating and examining QTL in the brain and blood to investigate their influence on the blood-brain barrier and the regulatory processes associated with neurodegenerative disorders.
 
 Analysis outlined in Project 2 can be similarly applied for context specific QTL. To get started, please read Project 2 Details and Outcome and Next steps until April, 2024.
 
