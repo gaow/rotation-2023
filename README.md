@@ -3,8 +3,8 @@
 ## Overview
 
 The overall research theme of our lab can be found in the lab wiki at: https://wanggroup.org/. 
-As of now (September 15, 2023) some project specific contents are a out-dated. 
-I will outline some of the research topics relevant to your projects in the orientation tasks below. 
+As of now (September 15, 2023) most of the project specific contents are out-dated and still need to be updated.
+Instead, here I will outline some of the research topics relevant to your future projects in the orientation tasks below. 
 
 Before you decide if you would like to start working with us, please read the [lab "rules"](https://wanggroup.org/orientation/index.html#lab-rules), particularly a section for "Master students".
 If you find these are acceptable to you, please reach out to me to start your rotation project.
