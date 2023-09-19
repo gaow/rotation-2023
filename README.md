@@ -8,7 +8,7 @@ Instead, here I will outline some of the research topics relevant to your future
 
 Before you decide if you would like to start working with us, please read the [lab "rules"](https://wanggroup.org/orientation/index.html#lab-rules), particularly a section for "Master students".
 Please think carefully through about the committement to our lab and evaluate if it fits your future plans.
-You can also talk to my current Biostatistics master students (Anjing Liu, Zining Qi and Haochen Sun) about what their experiences are working in the lab.
+You can also talk to my current Biostatistics master students (Anjing Liu, Haochen Sun and Zining Qi) about what their experiences are working in the lab.
 If you find everything is reasonable to you, please book meeting with me to discuss your rotation project.
 
 In the next month, you will pick a rotation project and push it forward as much as you can.
