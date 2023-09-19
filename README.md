@@ -18,6 +18,8 @@ This aspect is of crucial importance in our lab. We need trainees to get along w
 Below, I outline 4 projects for you to choose from. Project 2 and 3 are the same material at the rotation phase so technically you are choosing from 3 projects.
 Please take a look at them before we discuss. But I would suggest to not pick it yet until after our interview --- I would like to hear and know you better, and recommend a project for you, based on my past experiences interacting with first year students working on projects from my lab.
 
+Please send me your Slack account so I'll invite you to my lab slack workspace. Once you join I will create channel for you to work with my team on your rotation projects. You can ask any questions in the channel. We will respond and interact with you from there.
+
 ## Project 1: Building software package for a new "colocalization analysis" method we have recently developed
 
 ### Aim
