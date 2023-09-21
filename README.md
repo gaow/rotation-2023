@@ -34,7 +34,7 @@ This project will allow you to demonstrate your **software programming and scien
 ### Details
 
 We are interested in "gene-mapping", ie, to identify DNA variation that may lead to a series of events spanning the Central Dogma of Biology.
-This include but not limited to mapping where in the genome the DNA would lead to changes in the so-called "multi-omics" features, such as epigenomic marks, RNA expression, post-transcriptional processes, protein expression, metabolomics products, and complex disease risk such as Alzheimer's disease. 
+This include but not limited to mapping where in the genome the DNA would lead to changes in the so-called "multi-omics" features, such as epigenomic marks, RNA expression, post-transcriptional processes, protein expression, metabolites, and complex disease such as Alzheimer's disease. 
 Identifying such variations with potential evidence to "regulate" *multiple* such molecular features and complex traits is called "colocalization analysis". 
 This is a challenging task because many DNA variants are correlated to the truly causal variant of various outcomes (you can roughly understand this as a variable selection problem of regressors in linear regression setting), 
 and they may have an impact on only a subset of possible outcomes amoung many outcomes evaluated.
