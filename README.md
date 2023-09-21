@@ -60,6 +60,10 @@ Students who successfully completed this assignment may be involved in a similar
 
 In this process you will be working closely with our postdocs Dr. Xuewei Cao and Dr. Ru Feng, as well as our 2nd year master student Haochen Sun.
 
+### Next steps for summer 2024
+
+One possible project that you can lead independently might be to extend a statistical fine-mapping method with a more informed prior on genetic effect size, compare the approach with the original in simulation settings, and apply to fine-mapping for Alzheimer's disease.
+
 ## Project 2: Adopting and applying a new statistical method to discover cis-regulatory network from quantitative trait loci analysis
 
 ### Aim
