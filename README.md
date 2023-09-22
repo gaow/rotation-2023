@@ -133,7 +133,7 @@ To achieve this goal, we need to:
 These 3 tasks is sequential: you must carry them out in the order listed above. 
 To get started, please check out the background of this problem in [this document on Google Drive](https://drive.google.com/file/d/1Y9qRtF45MVuO_9Q6AyV2eerVdzWZI-Dt/view?usp=drive_link).
 Our method proposal (outline) and simulation study design can be found after slide 12. Please request access to download this document.
-To get started, please follow instructions in [this notebook]() as well as what we would post to you on slack once you join our channel.
+To get started, please follow instructions in [this notebook](https://github.com/gaow/rotation-2023/blob/main/analysis/transnet/trans_qtl_network_simulation.ipynb) as well as what we would post to you on slack once you join our channel.
 
 ### Outcome
 
